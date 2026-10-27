@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Neste projeto, desenvolvi em TypeScript e Node.js um sistema simples de e-commerce. Além de ser uma excelente oportunidade para aplicar esses fundamentos de desenvolvimento back-end, o objetivo é utilizar muitos dos conceitos de programação aprendidos durante o curso, como funções, objetos, arrays, validações, tipos e a organizar o código em diferentes módulos, que se complementam.
 
@@ -14,16 +14,16 @@ O sistema permite difeentes ações, sendo elas: gerenciar clientes, produtos, c
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-### 👤 Gerenciamento de clientes
+### Gerenciamento de clientes
 
 - Cadastrar novos clientes.
 - Listar os clientes cadastrados.
 - Buscar clientes pelo ID.
 - Validar os dados informados no cadastro.
 
-### 📦 Gerenciamento de produtos
+### Gerenciamento de produtos
 
 - Cadastrar novos produtos.
 - Listar os produtos disponíveis.
@@ -34,7 +34,7 @@ O sistema permite difeentes ações, sendo elas: gerenciar clientes, produtos, c
 - Remover produtos cadastrados.
 - Validar preços e quantidades em estoque.
 
-### 🛒 Carrinho de compras
+### Carrinho de compras
 
 - Adicionar produtos ao carrinho.
 - Remover produtos do carrinho.
@@ -44,7 +44,7 @@ O sistema permite difeentes ações, sendo elas: gerenciar clientes, produtos, c
 - Calcular o valor total da compra.
 - Verificar a disponibilidade em estoque.
 
-### 💳 Gerenciamento de pedidos
+### Gerenciamento de pedidos
 
 - Finalizar compras.
 - Verificar se o cliente está cadastrado.
@@ -54,7 +54,7 @@ O sistema permite difeentes ações, sendo elas: gerenciar clientes, produtos, c
 - Registrar os pedidos realizados.
 - Consultar pedidos por cliente.
 
-### 📊 Relatórios
+### Relatórios
 
 - Consultar a quantidade de pedidos realizados.
 - Calcular o faturamento total da loja.
@@ -63,7 +63,7 @@ O sistema permite difeentes ações, sendo elas: gerenciar clientes, produtos, c
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **Node.js:** execução do projeto no terminal.
 - **TypeScript:** linguagem utilizada no desenvolvimento.
@@ -71,7 +71,7 @@ O sistema permite difeentes ações, sendo elas: gerenciar clientes, produtos, c
 
 ---
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 ecommerce/
@@ -102,7 +102,7 @@ ecommerce/
 
 ---
 
-## ▶️ Como executar o projeto
+## Como executar o projeto
 
 ### 1. Pré-requisitos
 
@@ -140,7 +140,7 @@ O sistema solicitará os dados de um novo cliente e, em seguida, executará uma 
 
 ---
 
-## 🧪 Testes realizados
+## Testes realizados
 
 O arquivo `main.ts` demonstra situações válidas e inválidas para verificar o funcionamento do sistema.
 
@@ -179,7 +179,7 @@ Após a compra, o sistema apresenta o faturamento, a quantidade de produtos vend
 
 ---
 
-## 📋 Regras de negócio
+## Regras de negócio
 
 - Cada produto deve possuir um identificador único.
 - O preço de um produto deve ser maior que zero.
@@ -192,7 +192,7 @@ Após a compra, o sistema apresenta o faturamento, a quantidade de produtos vend
 
 ---
 
-## ⚠️ Limitações do projeto
+## Limitações do projeto
 
 - Os dados são armazenados em memória.
 - As informações são reiniciadas quando o programa é encerrado.
